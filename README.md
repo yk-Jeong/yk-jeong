@@ -1,6 +1,6 @@
 ### Hi there 👋 안녕하세요!
 
-**I am Ellie**(she/her)
+**정유경/Ellie**(she/her)
 
 🌱 majoring in Computer Science & Statistics (2019~)<br>
 🌱 currently interested in Machine Learning 
