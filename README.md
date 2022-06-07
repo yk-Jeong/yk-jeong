@@ -3,7 +3,7 @@
 **정유경/Ellie**(she/her)
 
 🌱 majoring in Computer Science & Statistics (2019~)<br>
-🌱 currently interested in Machine Learning 
+🌱 currently interested in Machine Learning <br>
 🔖 <a href="https://imminent-statistic-7fd.notion.site/Ellie-d89bf30dd7e34d07ace2832526f9801c">**cv letter**</a>(notion)
 
 
