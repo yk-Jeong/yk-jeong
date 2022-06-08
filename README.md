@@ -1,14 +1,15 @@
 ### Hi there 👋 안녕하세요!
 
-**정유경/Ellie**(she/her)
+**정유경/Ellie** (she/her)
 
 🌱 majoring in Computer Science & Statistics (2019~)<br>
 🌱 currently interested in Machine Learning <br>
-🔖 <a href="https://imminent-statistic-7fd.notion.site/Ellie-d89bf30dd7e34d07ace2832526f9801c">**cv letter**</a>(notion)
+🔖 <a href="https://imminent-statistic-7fd.notion.site/Ellie-d89bf30dd7e34d07ace2832526f9801c">**cv letter**</a> (notion)
 
 
 정보접근능력의 불균형 해소에 관심이 많은 데이터 과학자입니다.<br>
 아낌없이 공유하는 태도가 세상을 더 이롭게 한다고 믿습니다. 
+
 
 
 **Tools and Languages** 
