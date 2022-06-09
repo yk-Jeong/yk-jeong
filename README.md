@@ -1,5 +1,5 @@
 ### Hi there 👋 안녕하세요!
-
+* * *
 **정유경/Ellie** (she/her) language: KR/JP/EN
 
 🌱 majoring in Computer Science & Statistics (2019~)<br>
