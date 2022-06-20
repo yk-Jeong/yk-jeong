@@ -4,7 +4,7 @@
 
 🌱 majoring in Computer Science & Statistics (2019~)<br>
 🌱 currently interested in Machine Learning <br>
-🔖 <a href="https://imminent-statistic-7fd.notion.site/Ellie-d89bf30dd7e34d07ace2832526f9801c">**cv letter**</a> (notion)
+🔖 <a href="https://imminent-statistic-7fd.notion.site/Ellie-d89bf30dd7e34d07ace2832526f9801c">**cv(resume)**</a> (notion)
 
 
 정보접근능력의 불균형 해소에 관심이 많은 데이터 과학자입니다.<br>
