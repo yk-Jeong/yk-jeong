@@ -8,7 +8,6 @@
 
 
 정보접근능력의 불균형 해소에 관심이 많은 데이터 과학자입니다.
-
 아낌없이 공유하는 태도가 세상을 더 이롭게 한다고 믿습니다. 
 Closing the knowledge gap can set us free.
 
