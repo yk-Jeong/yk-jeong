@@ -1,5 +1,4 @@
-### Hi there 👋 안녕하세요!
----
+## Hi there 👋 안녕하세요!
 **정유경/Ellie** (she/her) language: KR/JP/EN
 
 🌱 majoring in Computer Science & Statistics (2019~)<br>
@@ -12,15 +11,13 @@
 
 
 
-#### **Stacks** 
----
+### **Stacks** 
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
 
 
-#### **Toy project** (new↑)
----
+### **Toy project** (new↑)
 
 - <a href="https://github.com/yk-Jeong/climbing_map">전국 인공암벽장 정보 수집</a> (2022.4~)
 - <a href="https://github.com/yk-Jeong/bookcover_gan">GAN을 활용한 책표지 디자인 딥러닝 AI 구축</a> (2021.12.)
