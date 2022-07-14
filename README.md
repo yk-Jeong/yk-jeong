@@ -3,7 +3,6 @@
 
 - 🌱 majoring in Computer Science & Statistics (2019~)
 - 🌱 currently interested in Machine Learning 
-- 🔖 <a href="https://imminent-statistic-7fd.notion.site/Ellie-d89bf30dd7e34d07ace2832526f9801c">**cv(resume)**</a> (notion)
 - 🗣️ language: KR/JP/EN
 
 
