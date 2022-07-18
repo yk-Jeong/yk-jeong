@@ -33,4 +33,4 @@ Closing the knowledge gap can set us free.
 - <a href="https://github.com/yk-Jeong/ai4code">팀명미정: 캐글 컴피티션을 목표로! </a> (2022.7~)
 - <a href="https://github.com/yk-Jeong/PY4E">부스트코스 모두의 파이썬(PY4E) 리드부스터 활동 </a> (2022.7~)
 - <a href="https://github.com/yk-Jeong/leetcode">1일 1커밋을 위한 알고리즘 문제 풀이: 리트코드, 백준, 프로그래머스! </a> (2022.6~)
-- <a href="https://github.com/yk-Jeong/KNOU>방송통신대학교 컴퓨터과학과 대구학생회 주최 파이썬 스터디 </a> (2022.2~)
+- <a href="https://github.com/yk-Jeong/KNOU">방송통신대학교 컴퓨터과학과 대구학생회 주최 파이썬 스터디 </a> (2022.2~)
