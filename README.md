@@ -18,7 +18,7 @@ Closing the knowledge gap can set us free.
 
 
 
-### 💭 **Toy project** (new↑)
+### 💭 **my toy project** (new↑)
 
 - <a href="https://github.com/yk-Jeong/climbing_map">전국 인공암벽장 정보 수집</a> (2022.4~)
 - <a href="https://github.com/yk-Jeong/bookcover_gan">GAN을 활용한 책표지 디자인 딥러닝 AI 구축</a> (2021.12.)
@@ -27,3 +27,10 @@ Closing the knowledge gap can set us free.
 - <a href="https://github.com/yk-Jeong/meal_prediction">배달식 수요 예측을 위한 머신러닝 모델 구축</a> (2021.10.)
 - <a href="https://github.com/yk-Jeong/gamedata_analysis">비디오 게임 판매 데이터 기반 분석</a> (2021.9.)
 
+
+### 🤝 **Study** (new↑)
+
+- <a href="https://github.com/yk-Jeong/ai4code">팀명미정: 캐글 컴피티션을 목표로! </a> (2022.7~)
+- <a href="https://github.com/yk-Jeong/PY4E">부스트코스 모두의 파이썬(PY4E) 리드부스터 활동 </a> (2022.7~)
+- <a href="https://github.com/yk-Jeong/leetcode">1일 1커밋을 위한 알고리즘 문제 풀이: 리트코드, 백준, 프로그래머스! </a> (2022.6~)
+- <a href="https://github.com/yk-Jeong/KNOU>방송통신대학교 컴퓨터과학과 대구학생회 주최 파이썬 스터디 </a> (2022.2~)
