@@ -12,13 +12,13 @@ Closing the knowledge gap can set us free.
 
 
 
-### ✨ **Languages and tools** 
+### ✨ **Using languages and tools** 
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
 
 
-### 💭 **my toy project** (new↑)
+### 💭 **My own toy project** (new↑)
 
 - <a href="https://github.com/yk-Jeong/climbing_map">전국 인공암벽장 정보 수집</a> (2022.4~)
 - <a href="https://github.com/yk-Jeong/bookcover_gan">GAN을 활용한 책표지 디자인 딥러닝 AI 구축</a> (2021.12.)
@@ -28,7 +28,7 @@ Closing the knowledge gap can set us free.
 - <a href="https://github.com/yk-Jeong/gamedata_analysis">비디오 게임 판매 데이터 기반 분석</a> (2021.9.)
 
 
-### 🤝 **Study** (new↑)
+### 🤝 **Study groups** (new↑)
 
 - <a href="https://github.com/yk-Jeong/ai4code">팀명미정: 캐글 컴피티션을 목표로! </a> (2022.7~)
 - <a href="https://github.com/yk-Jeong/PY4E">부스트코스 모두의 파이썬(PY4E) 리드부스터 활동 </a> (2022.7~)
