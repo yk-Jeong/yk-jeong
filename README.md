@@ -34,6 +34,8 @@
 
 ### 🤝 **Study groups** (new↑)
 
+
+- <a href="https://github.com/yk-Jeong/PY4E">코칭스터디 8기: 파이썬으로 시작하는 데이터 사이언스 코스 </a> 2022.10-현재)
 - <a href="https://github.com/yk-Jeong/PY4E">방송통신대학교 컴퓨터과학과 대구학생회 주최 머신러닝 스터디 </a> (2022.9-현재)
 - <a href="https://github.com/yk-Jeong/PY4E">부스트코스 모두의 파이썬(PY4E) 리드부스터 활동 </a> (2022.7~8) **`수료!`**
 - <a href="https://github.com/yk-Jeong/leetcode">1일 1커밋을 위한 알고리즘 문제 풀이: 리트코드, 백준, 프로그래머스! </a> (2022.6-현재)
