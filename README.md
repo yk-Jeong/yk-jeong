@@ -18,17 +18,17 @@
 
 
 ### 💭 **My own toy project** (new↑) 
-`holding`
 
 - <a href="https://github.com/yk-Jeong/meal_prediction">배달식 수요 예측을 위한 머신러닝 모델 구축</a> (2021.10.)
 - <a href="https://github.com/yk-Jeong/gamedata_analysis">비디오 게임 판매 데이터 기반 분석</a> (2021.9.)
 
+`holding`
 ~- <a href="https://github.com/yk-Jeong/climbing_map">전국 인공암벽장 정보 수집</a> (2022.4~)~
-
+<br>
 ~- <a href="https://github.com/yk-Jeong/bookcover_gan">GAN을 활용한 책표지 디자인 딥러닝 AI 구축</a> (2021.12.)~
-
+<br>
 ~- <a href="https://github.com/yk-Jeong/vegan_app">비건식 제공식당 탐색 웹 애플리케이션 제작</a> (2021.12-)~
-
+<br>
 ~- <a href="https://github.com/yk-Jeong/cocktail_recommendation">추천 시스템 기반 칵테일 추천 모델&웹 애플리케이션 제작</a> (2021.11.)~
 
 
