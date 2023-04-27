@@ -34,7 +34,7 @@
 
 ### 🤝 **Study groups** (new↑)
 
-- <a href="https://github.com/yk-Jeong/AI_study">NAVER 코칭스터디 9기: 인공지능 기초 다지기 </a> `(2023.1-현재)`
+- <a href="https://github.com/yk-Jeong/AI_study">NAVER 코칭스터디 9기: 인공지능 기초 다지기 </a> `(2023.1-2)` **`수료!`**
 - <a href="https://github.com/yk-Jeong/DS_study">NAVER 코칭스터디 8기: 파이썬으로 시작하는 데이터 사이언스 코스 </a> (2022.10-11) **`수료!`**
 - 방송통신대학교 컴퓨터과학과 대구학생회 주최 머신러닝 스터디 (2022.9-12) **`수료!`**
 - <a href="https://github.com/yk-Jeong/PY4E">NAVER 코칭스터디 모두의 파이썬(PY4E) 리드부스터 활동 </a> (2022.7~8) **`수료!`**
