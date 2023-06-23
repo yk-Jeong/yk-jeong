@@ -1,5 +1,5 @@
 ## Hi there 👋 안녕하세요!
-### **유경 / Ellie** (she/her) 
+### **유경** (she/her) 
 
 - 🌱 majoring in Computer Science & Statistics (2019-)
 - 🌱 currently interested in Machine Learning 
@@ -11,10 +11,18 @@
 
 ---
 
-### ✨ **Using languages and tools** 
+### ✨ **Tech stack** 
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
+
+### ✨ **Study** 
+
+- **AWS Re:Start 2nd** 2023.06-2023.08
+- **Codestates AI Bootcamp 8th** 2021.09-2022.04
+
+- <a href="https://github.com/yk-Jeong/AI_study">NAVER 코칭스터디 8~10기 **`수료`**
+- <a href="https://github.com/yk-Jeong/PY4E">NAVER 코칭스터디 모두의 파이썬(PY4E) 리드부스터 활동 </a> (2022.7~8) **`수료`**
 
 
 ### 💭 **My own toy project** (new↑) 
@@ -34,10 +42,3 @@
 
 ### 🤝 **Study groups** (new↑)
 
-- <a href="https://github.com/yk-Jeong/AI_study">NAVER 코칭스터디 10기: BEYOND AI BASIC 2023 </a> `(2023.5-현재)
-- <a href="https://github.com/yk-Jeong/AI_study">NAVER 코칭스터디 9기: 인공지능 기초 다지기 </a> `(2023.1-2)` **`수료!`**
-- <a href="https://github.com/yk-Jeong/DS_study">NAVER 코칭스터디 8기: 파이썬으로 시작하는 데이터 사이언스 코스 </a> (2022.10-11) **`수료!`**
-- 방송통신대학교 컴퓨터과학과 대구학생회 주최 머신러닝 스터디 (2022.9-12) **`수료!`**
-- <a href="https://github.com/yk-Jeong/PY4E">NAVER 코칭스터디 모두의 파이썬(PY4E) 리드부스터 활동 </a> (2022.7~8) **`수료!`**
-- <a href="https://github.com/yk-Jeong/leetcode">1일 1커밋을 위한 알고리즘 문제 풀이: 리트코드, 백준, 프로그래머스! </a> `(2022.6-현재)`
-- <a href="https://github.com/yk-Jeong/KNOU/tree/main/2022_python">방송통신대학교 컴퓨터과학과 대구학생회 주최 파이썬 기초 스터디 </a> `(2022.2-현재)`
