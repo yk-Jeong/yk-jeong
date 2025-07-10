@@ -11,7 +11,7 @@
 ### ✨ **Study** 
 
 - **AWS Re:Start 2nd** 2023.06-2023.08
-- **Codestates AI Bootcamp 8th** 2021.09-2022.04
+- **Codestates AI Bootcamp 8th** 2021.09-2022.04 **`수료`**
 - <a href="https://github.com/yk-Jeong/AI_study">NAVER 코칭스터디 8~10기 **`수료`**
 - <a href="https://github.com/yk-Jeong/PY4E">NAVER 코칭스터디 모두의 파이썬(PY4E) 리드부스터 활동 </a> (2022.7~8) **`수료`**
 
@@ -20,6 +20,4 @@
 
 - <a href="https://github.com/yk-Jeong/learnmate">learnmate: 학습 성향 기반 맞춤 전략 추천 챗봇</a> (2025.04~)
 - <a href="https://github.com/yk-Jeong/iMORS">ICU 내 사망 예측 논문 구현</a> (2024.06~2024.08)
-- <a href="https://github.com/yk-Jeong/meal_prediction">배달식 수요 예측을 위한 머신러닝 모델 구축</a> (2021.10.)
-- <a href="https://github.com/yk-Jeong/gamedata_analysis">비디오 게임 판매 데이터 기반 분석</a> (2021.9.)
 
