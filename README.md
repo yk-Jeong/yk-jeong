@@ -1,7 +1,8 @@
 ## Hi there 👋 안녕하세요!
 ### **유경** (she/her) 
 
-- 🌱 majoring in Computer Science & Statistics (2019-2024)
+- 🌱 MS: Computer Science & Statistics (2019-2024)
+- 🌱 BS: Statistics & Data Science (2026~)
 - 🌱 currently interested in Machine Learning 
 - 🗣️ language: KR/JP/EN
 
